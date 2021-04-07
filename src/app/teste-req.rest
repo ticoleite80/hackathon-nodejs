@@ -1,0 +1,18 @@
+### requisicao GET /
+GET http://localhost:3000
+### requisicao get com parametros
+GET http://localhost:3000/hackathon/98765
+### requisição POST
+POST http://localhost:3000/hackathon
+Content-Type: application/json
+
+{
+    "nome": "Thiago Leite",
+    "telefone": "(61)99999-99887"
+}
+### requisição PUT
+PUT http://localhost:3000/hackathon/1234
+### requisição PATCH
+PATCH http://localhost:3000/hackathon/1234
+### requisição DELETE
+DELETE http://localhost:3000/hackathon/1234
