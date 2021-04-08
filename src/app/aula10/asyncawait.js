@@ -4,7 +4,8 @@
 function calc(valor){
     return new Promise((resolve, reject)=>{
         setTimeout(() => {
-            reject(5 * valor)
+            resolve(5 * valor)
+            //reject(5 * valor)
         }, 2000);
     })
 }
