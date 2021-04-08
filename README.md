@@ -1,5 +1,5 @@
-# Nome do produto
-> Descrição curta sobre o que seu projeto faz.
+# Projeto Hackathon NodeJS
+> Projeto criado para que os alunos inscritos no Hackathon DEV - Java, da Stefanini Group, possam ter o projeto implementado durante as Video Aulas do Prof.: Thiago Leite
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
