@@ -1,4 +1,5 @@
-/**FUNÇÕES DE RETORNO - PROMISES (se tornaram notaivas do javascript após o ES6)
+/**FUNÇÕES DE RETORNO - PROMISES (se tornaram nativas do javascript após o ES6)
+ * 
  * PROMISES definem uma ação que vai ser executada no futuro, podendo ser resolvida (com sucesso) 
  * ou rejeitada (com erro).
  * ***Há uma diferença entre lançar um erro e rejeitar uma promise. Lançar (dar um throw ) no erro, 
