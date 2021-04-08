@@ -1,3 +1,7 @@
+/**Para utilização do nodemon, eh presico instalar o mesmo.
+ * Comando de instalação: npm i -g nodemon
+ */
+
 /** Criamos uma variavel para teste do nodemon, toda vez que ela for alterada o servidor será 
  * reiniciado automaticamente e o novo valor exibido no console. */
 let edificio= 'Ed. Berkeley'

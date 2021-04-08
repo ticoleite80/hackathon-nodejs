@@ -1,5 +1,6 @@
 /** Importamos um modulo para ser utilizado na nossa implementação.
- * Neste exemplo estamos importando uma funcionalidade do modulo, no caso o EventEmitter.
+ * Neste exemplo estamos importando uma funcionalidade do modulo (Atribuição por Desestruturação), 
+ * no caso o EventEmitter.
 */
 const {EventEmitter} = require('events')
 
