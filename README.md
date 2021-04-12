@@ -46,11 +46,11 @@ Para instalar dependências a serem utilizadas no projeto, execute o comando aba
 Thiago Leite (Líder técnico Stefanini Group) – tlbezerra@stefanini.com
 Distribuído sob a licença ISC. Veja `LICENSE` para mais informações.
 
-[https://github.com/yourname/github-link](https://github.com/othonalberto/)
+[https://github.com/ticoleite80/hackathon-nodejs](https://github.com/ticoleite80/hackathon-nodejs)
 
 ## Contributing
 
-1. Faça o _fork_ do projeto (<https://github.com/yourname/yourproject/fork>)
+1. Faça o _fork_ do projeto (https://github.com/ticoleite80/hackathon-nodejs/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
 3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
 4. _Push_ (`git push origin feature/fooBar`)
