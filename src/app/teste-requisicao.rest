@@ -1,0 +1,15 @@
+### requisição POST - preciso que seja mostrado em tela as informacoes do objeto criado abaixo
+POST http://localhost:1357/segundaRota
+Content-Type: application/json
+
+{
+    "curso": "Hackathon DEV - Java",
+    "empresa": "Stefanini Group",
+    "professor": "Thiago Leite"
+}
+### requisição PUT - preciso que seja mostrado em tela o texto: Metodo PUT utilizado para atualizar o id 01234
+PUT http://localhost:1357/segundaRota/01234
+### requisição PATCH - preciso que seja mostrado em tela o texto: Metodo PATCH utilizado para atualizar o id 11111
+PATCH http://localhost:1357/segundaRota/11111
+### requisição DELETE - preciso que seja mostrado em tela o texto: Metodo DELETE utilizado para atualizar o id 12345
+DELETE http://localhost:1357/segundaRota/12345
